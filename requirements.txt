@@ -1,0 +1,8 @@
+langchain>=0.1.14
+langchain-community>=0.0.30
+langchain-ollama>=0.0.5
+ollama
+faiss-cpu
+PyPDF2
+jupyter
+tqdm
